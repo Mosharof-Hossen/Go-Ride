@@ -1,4 +1,4 @@
-# Project Name : [Gamer-Zone](https://mosharof-hossen.github.io/Go-Ride/)
+# Project Name : [Go-Ride](https://mosharof-hossen.github.io/Go-Ride/)
 
 ## Tools: 
 
